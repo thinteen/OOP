@@ -1,0 +1,6 @@
+﻿  compare.cpp
+  compare.vcxproj -> D:\ООП 2022\1 лаба\1 задание\compare\Debug\compare.exe
+  Test1 passed - If no arguments, program must fail
+  Test2 passed - if the number of allowed parameters is more than three, there will be an error
+  Test3 passed - start the  program with different files
+  Test4 passed - start the  program with equal files
